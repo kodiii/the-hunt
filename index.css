@@ -19,9 +19,9 @@ h2 {
 }
 
 .container {
-  background: rebeccapurple;
-  margin: auto;
-  max-width: 80%;
+  background: white;
+  margin: 70px auto;
+  max-width: 70%;
   border: 3px solid black;
   border-radius: 10px;
 }
